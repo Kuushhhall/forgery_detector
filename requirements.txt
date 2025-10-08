@@ -1,0 +1,13 @@
+# Image Forgery Detection - Requirements
+
+streamlit==1.31.0
+opencv-python-headless==4.9.0.80
+pillow==10.2.0
+numpy==1.26.3
+scipy==1.12.0
+torch==2.2.0
+torchvision==0.17.0
+transformers==4.37.2
+exifread==3.0.0
+matplotlib==3.8.2
+scikit-learn==1.4.0
